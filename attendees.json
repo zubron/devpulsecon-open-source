@@ -1,0 +1,10 @@
+var attendees = [
+    {
+        "name": "Bridget McErlean",
+        "username": "zubron"
+    },
+    {
+        "name": "Madhuri Yechuri",
+        "username": "myechuri"
+    }
+];
